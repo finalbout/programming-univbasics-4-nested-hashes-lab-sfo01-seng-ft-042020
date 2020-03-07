@@ -15,7 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-     hash = "key" => "value"
+     hash = {"key" => "value"}
 end
 
 def alan_kay_is_known_for
